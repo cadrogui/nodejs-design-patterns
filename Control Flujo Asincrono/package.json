@@ -1,0 +1,16 @@
+{
+  "name": "control-flujo-asincrono",
+  "version": "1.0.0",
+  "description": "ejemplo de control de flujo asincrono utilizando la libreria async",
+  "main": "01-secuencial.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mikel Carozzi <cadrogui@gmail.com> (http://www.mikelcarozzi.cl)",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.0.0-rc.6",
+    "bluebird": "^3.4.1",
+    "request": "^2.72.0"
+  }
+}
